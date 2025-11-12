@@ -1,5 +1,5 @@
 
-# Discord Card Bio
+# Card Bio Page
 
 Source for a website bio page inspired by the Discord Profile Card.
 (my first actual website with some work)
@@ -27,4 +27,4 @@ Libraries used for this website
 
 ## Todo
 
-- make it Responsive 💀
+- nothing shits useless as fuck
