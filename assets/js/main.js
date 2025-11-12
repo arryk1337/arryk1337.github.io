@@ -27,7 +27,7 @@ modal.addEventListener("click", (e) => {
 
 
 function copyToClipboard() {
-  const textToCopy = "robinn#2938";
+  const textToCopy = ".arryk";
   navigator.clipboard.writeText(textToCopy);
   const messageElement = document.querySelector(".message .m");
   messageElement.textContent = "Copied!";
@@ -46,7 +46,7 @@ new kursor({
 
 
 var typed3 = new Typed('.type', {
-  strings: ['I am Gay', 'I am Robin', 'I am Gay', 'I am a Fortnite Pro Player', 'I am a CSGO Pro Player', '🧛🏿‍♂️', 'I am Robin'],
+  strings: ['I am Arryk', 'I can write cool stuff', 'Star this repo', 'I am still Arryk', 'A R R R K', '🧛🏿‍♂️', 'I am Arryk'],
   typeSpeed: 90,
   showCursor: false,
   backSpeed: 0,
