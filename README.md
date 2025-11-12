@@ -2,7 +2,7 @@
 # Card Bio Page
 
 Source for a website bio page inspired by the Discord Profile Card.
-(my first actual website with some work)
+(did this out of pure boredom)
 
 
 ## Features
